@@ -2,7 +2,7 @@
 
 ### Pedro Lagüera Cabrera - alu0100891485@ull.edu.es
 
-## Proyecto
+## [Proyecto](https://github.com/plaguera/Qt-Embedded)
 
 Este programa simula una calculadora cuyos botones para los números y las operaciones son botones en pantalla táctil de la RaspberryPi, mientras que los botones `'='` y `'CLEAR'` son dos botones físicos en la RaspberryPi. El dispositivo también tiene dos LEDs, uno verde y otro rojo, el verde se enciende al pulsar `'='` y se muestra el resultado correcto, el rojo se enciende al pulsar `'='` y se encuentra un error, como dividir por 0. Se puede cambiar fácilmente en qué pin del dispositivo se encuentra cada LED y cada botón, los pines por defecto son:
 
